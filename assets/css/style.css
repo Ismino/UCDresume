@@ -147,6 +147,7 @@ header {
 
 #nav {
     margin: 0;
+    display: flex;
 }
 
 #nav li {
